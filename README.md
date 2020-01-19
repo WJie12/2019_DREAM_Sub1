@@ -5,15 +5,14 @@ _Team:_
 SingleCellLand
 
 _Members:_
-Jie Zheng^1^, Piyush Mundra^2^, Xinnan Dai^1^, Jie Wang^1^, Fan Xu^1^
+Jie Zheng<sup>1</sup>, Piyush Mundra<sup>2</sup>, Xinnan Dai<sup>1</sup>, Jie Wang<sup>1</sup>, Fan Xu<sup>1</sup>
 
 _Affiliation:_
 1. School of Information Science and Technology, ShanghaiTech University, Shanghai 201210, China.
 2. Cancer Research UK Manchester Institute, Manchester, UK. 
 
 _Contact:_
-@JieZheng_ShanghaiTech 
-zhengjie@shanghaitech.edu.cn
+[@JieZheng_ShanghaiTech](zhengjie@shanghaitech.edu.cn)
 
 Will you be able to make your submission public as part of the challenge archive? Yes
 
